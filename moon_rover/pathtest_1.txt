@@ -1,0 +1,1 @@
+Rover 1 route: base -> cx22 -> ta00 -> base -> xj84 -> base
